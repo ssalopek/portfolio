@@ -94,6 +94,11 @@ let resumeData = {
       level: 15,
       color: "#919483",
     },
+    {
+      name: "Git",
+      level: 80,
+      color: "#919483",
+    },
   ],
   portfolio: [
     {
