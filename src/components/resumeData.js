@@ -6,7 +6,7 @@ let resumeData = {
   linkedinId: "www.linkedin.com/in/stjepan-salopek-662612124",
   github: "",
   description:
-    "Master's degree in Information and Data Science. I have a great desire for progress in many technologies, from IoT to mobile development. Self-taught in Unity game development, Arduino IoT projects, Android and Frontend (HTML/CSS/React) development. ",
+    "Master's degree in Information and Data Science. I have a great desire for progress in many technologies, from IoT to mobile development. Self-taught in Unity game development, Arduino IoT projects, Android and Frontend (HTML/CSS/React) development.  ",
   address: "ssalopek.hr@gmail.com",
 
   socialLinks: [
