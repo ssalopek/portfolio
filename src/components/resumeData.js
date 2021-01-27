@@ -95,7 +95,7 @@ let resumeData = {
       color: "#919483",
     },
     {
-      name: "Git",
+      name: "Git ",
       level: 80,
       color: "#919483",
     },
