@@ -8,7 +8,9 @@ let resumeData = {
   description:
     "Master's degree in Information and Data Science. I have a great desire for progress in many technologies, from IoT to mobile development. Self-taught in Unity game development, Arduino IoT projects, Android and Frontend (HTML/CSS/React) development.  ",
   address: "ssalopek.hr@gmail.com",
-
+  engIcon:
+    "https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png",
+  croIcon: "https://cdn.countryflags.com/thumbs/croatia/flag-round-250.png",
   socialLinks: [
     {
       id: 1,
@@ -29,7 +31,6 @@ let resumeData = {
       className: "fa fa-facebook",
     },
   ],
-  aboutme: "",
   education: [
     {
       university: "FERIT",
@@ -40,7 +41,7 @@ let resumeData = {
       description: "Smart beehive",
     },
     {
-      university: "ETFOS",
+      university: "FERIT",
       specialization: "Computer Engineering",
       degree: "Bachelor's degree",
       year: "2017",
@@ -61,7 +62,7 @@ let resumeData = {
     },
     {
       name: "ReactJS",
-      level: 60,
+      level: 50,
       color: "#919483",
     },
     {
@@ -76,7 +77,7 @@ let resumeData = {
     },
     {
       name: "Unity",
-      level: 65,
+      level: 60,
       color: "#919483",
     },
     {
@@ -98,6 +99,36 @@ let resumeData = {
       name: "Git ",
       level: 80,
       color: "#919483",
+    },
+  ],
+  certifications: [
+    {
+      id: 1,
+      name: "HTML course",
+      description: "SoloLearn",
+      url: "https://www.sololearn.com/Certificate/1014-1666251/pdf/",
+      year: "2021",
+    },
+    {
+      id: 2,
+      name: "JavaScript course",
+      description: "SoloLearn",
+      url: "https://www.sololearn.com/Certificate/1024-1666251/pdf/",
+      year: "2020",
+    },
+    {
+      id: 3,
+      name: "React + Redux course",
+      description: "SoloLearn",
+      url: "https://www.sololearn.com/Certificate/1097-1666251/pdf/",
+      year: "2021",
+    },
+    {
+      id: 4,
+      name: "Elements of AI",
+      description: "Reaktor and University of Helsinki",
+      url: "https://certificates.mooc.fi/validate/ma542qeme6o",
+      year: "2021",
     },
   ],
   portfolio: [
