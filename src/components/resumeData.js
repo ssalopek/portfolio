@@ -1,6 +1,6 @@
 let resumeData = {
   imagebaseurl:
-    "https://media-exp1.licdn.com/dms/image/C5103AQHiDoRoDfHP3w/profile-displayphoto-shrink_200_200/0/1517375364333?e=1617235200&v=beta&t=23BtIiJvsFDJ5ziEMeHZwB2T6l8xfDaR0ryCGHdI0bU",
+    "https://media-exp1.licdn.com/dms/image/C5103AQHiDoRoDfHP3w/profile-displayphoto-shrink_200_200/0/1517375364333?e=1624492800&v=beta&t=r2SZqPAX6uB58DHipdWp542ndRoVoq4T5efndXj_YEM",
   name: "Stjepan",
   surname: "Salopek",
   linkedinId: "www.linkedin.com/in/stjepan-salopek-662612124",
@@ -52,7 +52,7 @@ let resumeData = {
   skills: [
     {
       name: "HTML",
-      level: 75,
+      level: 70,
       color: "#919483",
     },
     {
@@ -67,32 +67,32 @@ let resumeData = {
     },
     {
       name: "D3.js",
-      level: 25,
+      level: 30,
       color: "#919483",
     },
     {
       name: "Arduino",
-      level: 80,
+      level: 70,
       color: "#919483",
     },
     {
       name: "Unity",
-      level: 60,
+      level: 50,
       color: "#919483",
     },
     {
       name: "Java",
-      level: 25,
+      level: 15,
       color: "#919483",
     },
     {
       name: "Kotlin",
-      level: 25,
+      level: 10,
       color: "#919483",
     },
     {
       name: "Python",
-      level: 15,
+      level: 10,
       color: "#919483",
     },
     {
@@ -104,18 +104,19 @@ let resumeData = {
   certifications: [
     {
       id: 1,
-      name: "HTML course",
-      description: "SoloLearn",
-      url: "https://www.sololearn.com/Certificate/1014-1666251/pdf/",
-      year: "2021",
-    },
-    {
-      id: 2,
       name: "JavaScript course",
       description: "SoloLearn",
       url: "https://www.sololearn.com/Certificate/1024-1666251/pdf/",
       year: "2020",
     },
+    {
+      id: 2,
+      name: "HTML course",
+      description: "SoloLearn",
+      url: "https://www.sololearn.com/Certificate/1014-1666251/pdf/",
+      year: "2021",
+    },
+
     {
       id: 3,
       name: "React + Redux course",
