@@ -28,7 +28,12 @@ export default class About extends React.Component {
                   rel="noopener noreferrer"
                   href="https://drive.google.com/file/d/14kGyzNIWULmb4IZXIjlXfAeh3e8HnwX4/view?usp=sharing"
                 >
-                  <img src={resumeData.croIcon} width="35" height="35"></img>
+                  <img
+                    src={resumeData.croIcon}
+                    alt="cro"
+                    width="35"
+                    height="35"
+                  ></img>
                 </a>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a
@@ -36,7 +41,12 @@ export default class About extends React.Component {
                   rel="noopener noreferrer"
                   href="https://drive.google.com/file/d/1hDsMQB805KxxVua5rs2cT1XY4FdTN5co/view?usp=sharing"
                 >
-                  <img src={resumeData.engIcon} width="35" height="35"></img>
+                  <img
+                    src={resumeData.engIcon}
+                    alt="eng"
+                    width="35"
+                    height="35"
+                  ></img>
                 </a>
               </p>
             </div>
