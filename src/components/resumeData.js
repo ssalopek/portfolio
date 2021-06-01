@@ -126,7 +126,7 @@ let resumeData = {
     },
     {
       id: 4,
-      name: "Elements of AI",
+      name: "Elements of AI ",
       description: "Reaktor and University of Helsinki",
       url: "https://certificates.mooc.fi/validate/ma542qeme6o",
       year: "2021",
