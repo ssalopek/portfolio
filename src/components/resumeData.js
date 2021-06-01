@@ -57,7 +57,7 @@ let resumeData = {
     },
     {
       name: "CSS",
-      level: 60,
+      level: 55,
       color: "#919483",
     },
     {
@@ -67,7 +67,7 @@ let resumeData = {
     },
     {
       name: "D3.js",
-      level: 30,
+      level: 25,
       color: "#919483",
     },
     {
@@ -87,7 +87,7 @@ let resumeData = {
     },
     {
       name: "Kotlin",
-      level: 10,
+      level: 5,
       color: "#919483",
     },
     {
@@ -135,22 +135,33 @@ let resumeData = {
   portfolio: [
     {
       id: 1,
-      name: "Clothing React app",
-      description: "Udemy React Developer Course (zero to mastery)",
-      url: "https://clothing-react-app-live.herokuapp.com/",
+      name: "ShopIT React app",
+      description: "Udemy React Course (MERN Full Stack)",
+      url: "https://github.com/ssalopek/react-udemy-shopit",
       imageurl:
         "https://raw.githubusercontent.com/ssalopek/udemy-clothes/master/clothing.PNG",
+      giturl: "https://github.com/ssalopek/react-udemy-shopit"
     },
     {
       id: 2,
+      name: "Clothing React app",
+      description: "Udemy React Course (zero to mastery)",
+      url: "https://clothing-react-app-live.herokuapp.com/",
+      imageurl:
+        "https://raw.githubusercontent.com/ssalopek/udemy-clothes/master/clothing.PNG",
+      giturl: "https://github.com/ssalopek/react-udemy-clothes"
+    },
+    {
+      id: 3,
       name: "Weather React app",
       description: "Simple weather app using OpenWeather API",
       url: "https://weather-react-live.herokuapp.com",
       imageurl:
         "https://raw.githubusercontent.com/ssalopek/react-weather/master/weather.PNG",
+      giturl: "https://github.com/ssalopek/react-weather"
     },
     {
-      id: 3,
+      id: 4,
       name: "eBee",
       description:
         "IoT solution for measuring weight, temperature and humidity of beehive.",
@@ -159,7 +170,7 @@ let resumeData = {
         "https://raw.githubusercontent.com/ssalopek/eBee/master/ebee.jpg",
     },
     {
-      id: 4,
+      id: 5,
       name: "Zelda clone",
       description: "Unity 2D game",
       url: "https://github.com/ssalopek/RRI_UnityZolda",
@@ -167,7 +178,7 @@ let resumeData = {
         "https://raw.githubusercontent.com/ssalopek/RRI_UnityZolda/master/zolda.PNG",
     },
     {
-      id: 5,
+      id: 6,
       name: "FatApp",
       description: "Android (Java) app for measuring fat intake on daily basis",
       url: "https://github.com/ssalopek/ZavrsniRad_v1-master",
