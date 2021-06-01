@@ -135,12 +135,12 @@ let resumeData = {
   portfolio: [
     {
       id: 1,
-      name: "ShopIT React app",
+      name: "ShopIT React app (in progress)",
       description: "Udemy React Course (MERN Full Stack)",
       url: "https://github.com/ssalopek/react-udemy-shopit",
       imageurl:
-        "https://raw.githubusercontent.com/ssalopek/udemy-clothes/master/clothing.PNG",
-      giturl: "https://github.com/ssalopek/react-udemy-shopit"
+        "https://raw.githubusercontent.com/ssalopek/react-portfolio/master/src/images/shopitorigin.PNG",
+      giturl: "https://github.com/ssalopek/react-udemy-shopit",
     },
     {
       id: 2,
@@ -149,7 +149,7 @@ let resumeData = {
       url: "https://clothing-react-app-live.herokuapp.com/",
       imageurl:
         "https://raw.githubusercontent.com/ssalopek/udemy-clothes/master/clothing.PNG",
-      giturl: "https://github.com/ssalopek/react-udemy-clothes"
+      giturl: "https://github.com/ssalopek/react-udemy-clothes",
     },
     {
       id: 3,
@@ -158,16 +158,17 @@ let resumeData = {
       url: "https://weather-react-live.herokuapp.com",
       imageurl:
         "https://raw.githubusercontent.com/ssalopek/react-weather/master/weather.PNG",
-      giturl: "https://github.com/ssalopek/react-weather"
+      giturl: "https://github.com/ssalopek/react-weather",
     },
     {
       id: 4,
-      name: "eBee",
+      name: "eBee - IoT solution",
       description:
         "IoT solution for measuring weight, temperature and humidity of beehive.",
       url: "https://github.com/ssalopek/eBee",
       imageurl:
         "https://raw.githubusercontent.com/ssalopek/eBee/master/ebee.jpg",
+      giturl: "https://github.com/ssalopek/eBee",
     },
     {
       id: 5,
@@ -176,6 +177,7 @@ let resumeData = {
       url: "https://github.com/ssalopek/RRI_UnityZolda",
       imageurl:
         "https://raw.githubusercontent.com/ssalopek/RRI_UnityZolda/master/zolda.PNG",
+      giturl: "https://github.com/ssalopek/RRI_UnityZolda"
     },
     {
       id: 6,
@@ -184,6 +186,7 @@ let resumeData = {
       url: "https://github.com/ssalopek/ZavrsniRad_v1-master",
       imageurl:
         "https://raw.githubusercontent.com/ssalopek/ZavrsniRad_v1-master/final/fatapp.PNG",
+      giturl: "https://github.com/ssalopek/ZavrsniRad_v1-master"
     },
   ],
 };

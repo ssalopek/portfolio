@@ -18,7 +18,16 @@ export default class Portfolio extends React.Component {
                   return (
                     <div className="columns portfolio-item">
                       <div className="portfolio-item-meta">
-                        <h5>{item.name}</h5>
+                        <h5>
+                          {item.name} &nbsp;
+                          <a
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href={item.giturl}
+                          >
+                            <div className="fa fa-github"></div>
+                          </a>
+                        </h5>
                       </div>
                       <div className="item-wrap">
                         <a
@@ -26,7 +35,7 @@ export default class Portfolio extends React.Component {
                           rel="noopener noreferrer"
                           href={item.url}
                         >
-                          <img src={`${item.imageurl}`} className="item-img" />
+                          <img src={`${item.imageurl}`} className="item-img" alt={item.name} />
                         </a>
                       </div>
                       <p>{item.description}</p>

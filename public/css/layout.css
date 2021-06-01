@@ -449,12 +449,11 @@ ul#nav li a:active {
   vertical-align: bottom;
 }
 .portfolio-item .portfolio-item-meta {
-  padding: 18px;
+  padding: 35px;
 }
 .portfolio-item .portfolio-item-meta h5 {
   font: 16px/21px "opensans-bold", sans-serif;
   color: black;
-  text-shadow: 2px 2px white;
 }
 .portfolio-item .portfolio-item-meta p {
   font: 16px/18px "opensans-light", sans-serif;
