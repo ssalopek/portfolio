@@ -135,9 +135,9 @@ let resumeData = {
   portfolio: [
     {
       id: 1,
-      name: "ShopIT React app (in progress)",
+      name: "ShopIT React app",
       description: "Udemy React Course (MERN Full Stack)",
-      url: "https://github.com/ssalopek/react-udemy-shopit",
+      url: "https://ss-shopit.herokuapp.com/",
       imageurl:
         "https://raw.githubusercontent.com/ssalopek/react-portfolio/master/src/images/shopitorigin.PNG",
       giturl: "https://github.com/ssalopek/react-udemy-shopit",
